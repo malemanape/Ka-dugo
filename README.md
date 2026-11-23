@@ -99,15 +99,4 @@ kadugo-pwa/
 └── database/kadugo.sql   schema and sample data
 ```
 
-## Team
-
-Built for **IT312 Web Technologies** at Saint Louis University, 2026, by:
-
-- Denver C. Balunatse
-- El Steven D. Cruz
-- Prince Hermione P. Dela Cruz
-- Hans Rainier F. Fernandez
-- Shanelle Margaret T. Navarro
-- Ethan Christan M. Villegas
-
 A redesign for the finals is in progress on the `frontend-finals-redesign` branch.
